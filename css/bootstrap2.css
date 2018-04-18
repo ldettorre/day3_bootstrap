@@ -1,9 +1,30 @@
+
 .jumbotron {
     background-image: url(https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif);
     background-repeat: no-repeat;
     color:white;
     background-position: center;
     background-size:100%;
+    text-align:left;
     
 
+}
+
+.navbar-default{
+    background-color:black;
+    
+}
+
+.navbar-brand {
+    font-size: 20px;
+    font-family: 'Trocchi', serif;
+    color:white;
+    
+}
+
+.\navbar-default .navbar-brand{
+    color:white;
+}
+body {
+    font-family: 'Trocchi', serif;
 }
